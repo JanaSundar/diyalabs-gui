@@ -37,12 +37,10 @@ class ScratchImage extends React.PureComponent {
             const imageSource = nextImage.props.imageSource;
             ++this._currentJobs;
 
-
-
             storage
                 .load(imageSource.assetType, imageSource.assetId)
                 .then((asset) => {
-                    // console.log(asset);
+                    console.log(asset,"---");
                     if (!nextImage.wasUnmounted) {
                         const dataURI = asset.encodeDataURI();
                         // console.log(dataURI);
@@ -79,6 +77,7 @@ class ScratchImage extends React.PureComponent {
      * @returns {object} - the new state values, if any.
      */
     _loadImageSource(imageSource) {
+        
         if (imageSource) {
             if (imageSource.uri) {
                 ScratchImage._pendingImages.delete(this);
@@ -99,6 +98,7 @@ class ScratchImage extends React.PureComponent {
     }
     render() {
         const { imageSource: _imageSource, ...imgProps } = this.props;
+        console.log(this.props);
         return (
             <VisibilitySensor intervalCheck scrollCheck>
                 {({ isVisible }) => {

@@ -2,7 +2,7 @@ import ScratchStorage from "scratch-storage";
 
 import defaultProject from "./default-project";
 
-const excludedItems = ["f64042743297db677caa7f514010852c"];
+import { excludedData } from "./excludedItems";
 
 /**
  * Wrapper for ScratchStorage which adds default web sources.
@@ -61,9 +61,7 @@ class Storage extends ScratchStorage {
         this.assetHost = assetHost;
     }
     getAssetGetConfig(asset) {
-        console.log(asset);
-        if (excludedItems.includes(asset.assetId)) {
-            console.log("Hello");
+        if (excludedData.includes(asset.assetId)) {
             return `/static/${asset.assetId}.${asset.dataFormat}`;
         }
         return `${this.assetHost}/internalapi/asset/${asset.assetId}.${asset.dataFormat}/get/`;

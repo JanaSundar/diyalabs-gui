@@ -40,6 +40,142 @@
         "rotationCenterY": 101
     },
     {
+        "name": "Aarav crying",
+        "tags": ["people", "person", "drawing"],
+        "assetId": "f64042743297db677caa7f514010852c",
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "md5ext": "f64042743297db677caa7f514010852c.svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "70b01a66a9c2085685412ccb22cbadb8",
+        "name": "Aarav gentle-smile",
+        "bitmapResolution": 1,
+        "md5ext": "70b01a66a9c2085685412ccb22cbadb8.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "831da1ecc553073bae9ebda04fdc18e6",
+        "name": "Aarav jump-step-1",
+        "bitmapResolution": 1,
+        "md5ext": "831da1ecc553073bae9ebda04fdc18e6.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "e3b8824b47d6a915b4c4bb57c6a0c9a5",
+        "name": "Aarav laughing",
+        "bitmapResolution": 1,
+        "md5ext": "e3b8824b47d6a915b4c4bb57c6a0c9a5.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "ac4bde7a4f564837b93203ed732c100f",
+        "name": "Aarav namaste",
+        "bitmapResolution": 1,
+        "md5ext": "ac4bde7a4f564837b93203ed732c100f.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "93718f15e0cce539c8b45b213e8c8ab1",
+        "name": "Aarav running-step-1",
+        "bitmapResolution": 1,
+        "md5ext": "93718f15e0cce539c8b45b213e8c8ab1.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "f5fb87e6a74aab6b9bbaa39f846e19a9",
+        "name": "Aarav running-step-2",
+        "bitmapResolution": 1,
+        "md5ext": "f5fb87e6a74aab6b9bbaa39f846e19a9.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "049afafe2dbb50169d542bf7081c2b23",
+        "name": "Aarav running-step-3",
+        "bitmapResolution": 1,
+        "md5ext": "049afafe2dbb50169d542bf7081c2b23.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "6fcf96ab35f66d92f2ad49789f7de45e",
+        "name": "Aarav running-step-4",
+        "bitmapResolution": 1,
+        "md5ext": "6fcf96ab35f66d92f2ad49789f7de45e.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "81008919fd34e77604dcc5fdd193af87",
+        "name": "Aarav boy-sad",
+        "bitmapResolution": 1,
+        "md5ext": "81008919fd34e77604dcc5fdd193af87.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "c3aeb28274377c0a31a200deaee514d5",
+        "name": "Aarav saying-hi-1",
+        "bitmapResolution": 1,
+        "md5ext": "c3aeb28274377c0a31a200deaee514d5.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "fd08d5ac1f3d7e4a946002cbc62fad86",
+        "name": "Aarav saying-hi-2",
+        "bitmapResolution": 1,
+        "md5ext": "fd08d5ac1f3d7e4a946002cbc62fad86.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "29b64e80055a7d82e06c15ae9f79b79e",
+        "name": "Aarav scratching-head-1",
+        "bitmapResolution": 1,
+        "md5ext": "29b64e80055a7d82e06c15ae9f79b79e.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "5273dba6a004a11ba60516218cd87ba9",
+        "name": "Aarav shy-face",
+        "bitmapResolution": 1,
+        "md5ext": "5273dba6a004a11ba60516218cd87ba9.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "df8358dee3b2c176048c610a96f46991",
+        "name": "Aarav wondering",
+        "bitmapResolution": 1,
+        "md5ext": "df8358dee3b2c176048c610a96f46991.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
         "name": "Amon",
         "tags": ["people", "dance"],
         "assetId": "60f720956ab1840431dcf0616ce98f14",
@@ -1068,6 +1204,160 @@
         "md5ext": "a4bb9a9e06e65337798471035719985a.svg",
         "rotationCenterX": 72,
         "rotationCenterY": 72
+    },
+    {
+        "assetId": "50741a0335ce6f3ab3b9d224208fb22a",
+        "name": "Beth crying",
+        "bitmapResolution": 1,
+        "md5ext": "50741a0335ce6f3ab3b9d224208fb22a.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "09a960472eec54786c67e5c9c26ba5f1",
+        "name": "Beth gentle-smile",
+        "bitmapResolution": 1,
+        "md5ext": "09a960472eec54786c67e5c9c26ba5f1.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "6c7642372a22852d01116ef6f83e9501",
+        "name": "Beth jump-step-1",
+        "bitmapResolution": 1,
+        "md5ext": "6c7642372a22852d01116ef6f83e9501.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+
+    {
+        "assetId": "5e14ce1919d8e32291209f41f80399cf",
+        "name": "Beth jump-step-2",
+        "bitmapResolution": 1,
+        "md5ext": "5e14ce1919d8e32291209f41f80399cf.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "d66057ce5045117f0d2a2cf378ed80bd",
+        "name": "Beth laughing",
+        "bitmapResolution": 1,
+        "md5ext": "d66057ce5045117f0d2a2cf378ed80bd.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "3e5bb42d22bdfb9147631b96409e79f0",
+        "name": "Beth namaste",
+        "bitmapResolution": 1,
+        "md5ext": "3e5bb42d22bdfb9147631b96409e79f0.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "28f2a421d262564cd14ed93885da7c81",
+        "name": "Beth running-step-1",
+        "bitmapResolution": 1,
+        "md5ext": "28f2a421d262564cd14ed93885da7c81.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "28f2a421d262564cd14ed93885da7c81",
+        "name": "Beth running-step-2",
+        "bitmapResolution": 1,
+        "md5ext": "28f2a421d262564cd14ed93885da7c81.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "71da153fb9dfc32c7cb5962dc01c90c1",
+        "name": "Beth running-step-3",
+        "bitmapResolution": 1,
+        "md5ext": "71da153fb9dfc32c7cb5962dc01c90c1.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "77992a3989f3a26f905f9cd1ced9b918",
+        "name": "Beth running-step-4",
+        "bitmapResolution": 1,
+        "md5ext": "77992a3989f3a26f905f9cd1ced9b918.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "f3945f17f7b516e8b2f76425fc33cae8",
+        "name": "Beth sad",
+        "bitmapResolution": 1,
+        "md5ext": "f3945f17f7b516e8b2f76425fc33cae8.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "cbeab573578b46eea2c20d26627092ab",
+        "name": "Beth saying-hi-1",
+        "bitmapResolution": 1,
+        "md5ext": "cbeab573578b46eea2c20d26627092ab.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "a6a252dff60a1dae724cf691d87e8fa4",
+        "name": "Beth saying-hi-2",
+        "bitmapResolution": 1,
+        "md5ext": "a6a252dff60a1dae724cf691d87e8fa4.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "6c2c84790ddacd0c2e38b22462a22a74",
+        "name": "Beth scratching-head-1",
+        "bitmapResolution": 1,
+        "md5ext": "6c2c84790ddacd0c2e38b22462a22a74.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "a9ddc7d0b9b2f61a25e1002fd219ae05",
+        "name": "Beth shy-face",
+        "bitmapResolution": 1,
+        "md5ext": "a9ddc7d0b9b2f61a25e1002fd219ae05.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "c4cb4328937859f021f926b8e8fe40ed",
+        "name": "Beth wondering",
+        "bitmapResolution": 1,
+        "md5ext": "c4cb4328937859f021f926b8e8fe40ed.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "55669f656dfbbe7abd320915c0809b14",
+        "name": "Beth thimking",
+        "bitmapResolution": 1,
+        "md5ext": "55669f656dfbbe7abd320915c0809b14.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
     },
     {
         "name": "Cake-a",
@@ -9758,13 +10048,372 @@
         "rotationCenterY": 23
     },
     {
-        "name": "Aarav-crying",
-        "tags": ["people", "person", "drawing"],
-        "assetId": "f64042743297db677caa7f514010852c",
+        "assetId": "f395c362d0fd7cb20cdf2905c27cf0d0",
+        "name": "Father crying",
         "bitmapResolution": 1,
+        "md5ext": "f395c362d0fd7cb20cdf2905c27cf0d0.svg",
         "dataFormat": "svg",
-        "md5ext": "f64042743297db677caa7f514010852c.svg",
-        "rotationCenterX": 31,
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "a3cf74b7118eec767d12d4a9f72e2a68",
+        "name": "Father gentle-smile",
+        "bitmapResolution": 1,
+        "md5ext": "a3cf74b7118eec767d12d4a9f72e2a68.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "554f470ac95394cdc315c54ff5ab1376",
+        "name": "Father laughing-1",
+        "bitmapResolution": 1,
+        "md5ext": "554f470ac95394cdc315c54ff5ab1376.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "3f81cf8714a8922bf6f62f1ae2279280",
+        "name": "Father namaste",
+        "bitmapResolution": 1,
+        "md5ext": "3f81cf8714a8922bf6f62f1ae2279280.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "e7ba3c70969cbd8d75c958291f275c52",
+        "name": "Father side-face-1",
+        "bitmapResolution": 1,
+        "md5ext": "68d50b4720826c88a29ed5bf73d30550.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "7c6398d6a39ccca3ebf7cddd71d0f9e0",
+        "name": "Father side-face-2",
+        "bitmapResolution": 1,
+        "md5ext": "7c6398d6a39ccca3ebf7cddd71d0f9e0.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "1c6c977a12a8af9cfbb3ceb1d75d1f36",
+        "name": "Father side-face-3",
+        "bitmapResolution": 1,
+        "md5ext": "1c6c977a12a8af9cfbb3ceb1d75d1f36.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "86fdc01b8f5a5577ef968eaf36158ded",
+        "name": "Father side-face-4",
+        "bitmapResolution": 1,
+        "md5ext": "86fdc01b8f5a5577ef968eaf36158ded.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "695870044ad46fddbe70515e16c20395",
+        "name": "Father sad",
+        "bitmapResolution": 1,
+        "md5ext": "695870044ad46fddbe70515e16c20395.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "b0b21e468daa4724d26d8c0da898a2fb",
+        "name": "Father saying-hi-1",
+        "bitmapResolution": 1,
+        "md5ext": "b0b21e468daa4724d26d8c0da898a2fb.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "d417b0e7b7d30c5cf83efbcd3095989d",
+        "name": "Father saying-hi-2",
+        "bitmapResolution": 1,
+        "md5ext": "d417b0e7b7d30c5cf83efbcd3095989d.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "f2017dacaef33004872a6ee5fe4be80c",
+        "name": "Father scratching-head-1",
+        "bitmapResolution": 1,
+        "md5ext": "f2017dacaef33004872a6ee5fe4be80c.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "ff2a8803091ba0c329e1d6fbd49b5f89",
+        "name": "Father shy-face",
+        "bitmapResolution": 1,
+        "md5ext": "ff2a8803091ba0c329e1d6fbd49b5f89.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "42db7070ec61d07b35d27593d8d009d6",
+        "name": "Father wondering",
+        "bitmapResolution": 1,
+        "md5ext": "42db7070ec61d07b35d27593d8d009d6.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "b2878ed730f640702fb7e090bb5fa553",
+        "name": "Father thinking",
+        "bitmapResolution": 1,
+        "md5ext": "b2878ed730f640702fb7e090bb5fa553.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "6f1897d05c9f6dd98d858aec79893706",
+        "name": "Mom crying",
+        "bitmapResolution": 1,
+        "md5ext": "6f1897d05c9f6dd98d858aec79893706.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "76aa23edcdc06b271da2820984357f87",
+        "name": "Mom gentle-smile",
+        "bitmapResolution": 1,
+        "md5ext": "76aa23edcdc06b271da2820984357f87.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "f65ebb8ff634ee0b41d062c27172d34d",
+        "name": "Mom laughing",
+        "bitmapResolution": 1,
+        "md5ext": "f65ebb8ff634ee0b41d062c27172d34d.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "4aa1f1146d97b423844cedca7013252e",
+        "name": "Mom namaste",
+        "bitmapResolution": 1,
+        "md5ext": "4aa1f1146d97b423844cedca7013252e.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "68d50b4720826c88a29ed5bf73d30550",
+        "name": "Mom side-face-1",
+        "bitmapResolution": 1,
+        "md5ext": "68d50b4720826c88a29ed5bf73d30550.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "059c016dee13917b4ece394624c5cab3",
+        "name": "Mom side-face-2",
+        "bitmapResolution": 1,
+        "md5ext": "059c016dee13917b4ece394624c5cab3.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "626a3a71ccdbfb52893e7ddcc9119a16",
+        "name": "Mom side-face-3",
+        "bitmapResolution": 1,
+        "md5ext": "626a3a71ccdbfb52893e7ddcc9119a16.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "dee0cdd63763ecbe199e7da0a9f3c23a",
+        "name": "Mom side-face-4",
+        "bitmapResolution": 1,
+        "md5ext": "dee0cdd63763ecbe199e7da0a9f3c23a.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "c2c4c0777761b4b19ae6d3cd4cd00c2d",
+        "name": "Mom sad",
+        "bitmapResolution": 1,
+        "md5ext": "c2c4c0777761b4b19ae6d3cd4cd00c2d.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "0e813d59099ff920ae8767412d01a6fd",
+        "name": "Mom saying-hai-stage-1",
+        "bitmapResolution": 1,
+        "md5ext": "0e813d59099ff920ae8767412d01a6fd.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "2341a5015a8256795aa6417a78a88635",
+        "name": "Mom saying-hai-stage-2",
+        "bitmapResolution": 1,
+        "md5ext": "2341a5015a8256795aa6417a78a88635.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "ed2674e5e4639cd2181e46a5bd9e5d52",
+        "name": "Mom scratching-head-1",
+        "bitmapResolution": 1,
+        "md5ext": "ed2674e5e4639cd2181e46a5bd9e5d52.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "097ff6cf2f14a576e5195feb3358df6c",
+        "name": "Mom shy-face",
+        "bitmapResolution": 1,
+        "md5ext": "097ff6cf2f14a576e5195feb3358df6c.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "45b5140c09f547cc2a575d6ac4a6c65a",
+        "name": "Mom wondering",
+        "bitmapResolution": 1,
+        "md5ext": "45b5140c09f547cc2a575d6ac4a6c65a.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "e45d3a7c58c781dbceeda31ed79bcfd3",
+        "name": "Mom thinking",
+        "bitmapResolution": 1,
+        "md5ext": "e45d3a7c58c781dbceeda31ed79bcfd3.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "600e5fdde0974ab9ad4333e0c7ac37ea",
+        "name": "Tutor angry-smile",
+        "bitmapResolution": 1,
+        "md5ext": "600e5fdde0974ab9ad4333e0c7ac37ea.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "5eb6be8c1b0b19027a04b5fa7a139d8a",
+        "name": "Tutor gentle-smile",
+        "bitmapResolution": 1,
+        "md5ext": "5eb6be8c1b0b19027a04b5fa7a139d8a.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "abd70d72bf904d34a1346295eeedc5f0",
+        "name": "Tutor laughing",
+        "bitmapResolution": 1,
+        "md5ext": "abd70d72bf904d34a1346295eeedc5f0.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "4ee8a9f18a1886ba10ef62e2b9550d1b",
+        "name": "Tutor walking-step-1",
+        "bitmapResolution": 1,
+        "md5ext": "4ee8a9f18a1886ba10ef62e2b9550d1b.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "4c49246483efaab3cc6c84f0ea8067c2",
+        "name": "Tutor walking-step-2",
+        "bitmapResolution": 1,
+        "md5ext": "4c49246483efaab3cc6c84f0ea8067c2.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "626a3a71ccdbfb52893e7ddcc9119a16",
+        "name": "Tutor walking-step-3",
+        "bitmapResolution": 1,
+        "md5ext": "626a3a71ccdbfb52893e7ddcc9119a16.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "230ab3a4c09cdf7d3cfa4a00ddea6741",
+        "name": "Tutor walking-step-4",
+        "bitmapResolution": 1,
+        "md5ext": "230ab3a4c09cdf7d3cfa4a00ddea6741.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "c2801bf06be17d8b1ea2a02c4235ec2b",
+        "name": "Tutor sad",
+        "bitmapResolution": 1,
+        "md5ext": "c2801bf06be17d8b1ea2a02c4235ec2b.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "7b905a144c76cae15d44aed1efc16ae6",
+        "name": "Tutor teaching-1",
+        "bitmapResolution": 1,
+        "md5ext": "7b905a144c76cae15d44aed1efc16ae6.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "26f150e5fa0be12aeac25e9909a4b789",
+        "name": "Tutor teaching-2",
+        "bitmapResolution": 1,
+        "md5ext": "26f150e5fa0be12aeac25e9909a4b789.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
+        "rotationCenterY": 100
+    },
+    {
+        "assetId": "6a346c9b657d58c4ad3a9d78f3e100db",
+        "name": "Tutor wondering",
+        "bitmapResolution": 1,
+        "md5ext": "6a346c9b657d58c4ad3a9d78f3e100db.svg",
+        "dataFormat": "svg",
+        "rotationCenterX": 100,
         "rotationCenterY": 100
     }
 ]
