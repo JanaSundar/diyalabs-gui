@@ -16562,17 +16562,8 @@
                 "rotationCenterY": 100
             },
             {
-                "assetId": "e7ba3c70969cbd8d75c958291f275c52",
-                "name": "Father side-face-1",
-                "bitmapResolution": 1,
-                "md5ext": "68d50b4720826c88a29ed5bf73d30550.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 100,
-                "rotationCenterY": 100
-            },
-            {
                 "assetId": "7c6398d6a39ccca3ebf7cddd71d0f9e0",
-                "name": "Father side-face-2",
+                "name": "Father side-face-1",
                 "bitmapResolution": 1,
                 "md5ext": "7c6398d6a39ccca3ebf7cddd71d0f9e0.svg",
                 "dataFormat": "svg",
@@ -16581,7 +16572,7 @@
             },
             {
                 "assetId": "1c6c977a12a8af9cfbb3ceb1d75d1f36",
-                "name": "Father side-face-3",
+                "name": "Father side-face-2",
                 "bitmapResolution": 1,
                 "md5ext": "1c6c977a12a8af9cfbb3ceb1d75d1f36.svg",
                 "dataFormat": "svg",
@@ -16590,7 +16581,7 @@
             },
             {
                 "assetId": "86fdc01b8f5a5577ef968eaf36158ded",
-                "name": "Father side-face-4",
+                "name": "Father side-face-3",
                 "bitmapResolution": 1,
                 "md5ext": "86fdc01b8f5a5577ef968eaf36158ded.svg",
                 "dataFormat": "svg",
@@ -16726,17 +16717,8 @@
                 "rotationCenterY": 100
             },
             {
-                "assetId": "626a3a71ccdbfb52893e7ddcc9119a16",
-                "name": "Tutor walking-step-3",
-                "bitmapResolution": 1,
-                "md5ext": "626a3a71ccdbfb52893e7ddcc9119a16.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 100,
-                "rotationCenterY": 100
-            },
-            {
                 "assetId": "230ab3a4c09cdf7d3cfa4a00ddea6741",
-                "name": "Tutor walking-step-4",
+                "name": "Tutor walking-step-3",
                 "bitmapResolution": 1,
                 "md5ext": "230ab3a4c09cdf7d3cfa4a00ddea6741.svg",
                 "dataFormat": "svg",
