@@ -13,7 +13,7 @@ const messages = defineMessages({
     defaultProjectTitle: {
         id: 'gui.gui.defaultProjectTitle',
         description: 'Default title for project',
-        defaultMessage: 'Scratch Project'
+        defaultMessage: 'DiyaBlox Project'
     }
 });
 
@@ -67,6 +67,7 @@ const TitledHOC = function (WrappedComponent) {
                 /* eslint-enable no-unused-vars */
                 ...componentProps
             } = this.props;
+            console.log(reduxProjectTitle);
             return (
                 <WrappedComponent
                     {...componentProps}

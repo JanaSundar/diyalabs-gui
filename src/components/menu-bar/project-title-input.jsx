@@ -24,17 +24,20 @@ const ProjectTitleInput = ({
     intl,
     onSubmit,
     projectTitle
-}) => (
-    <BufferedInput
-        className={classNames(styles.titleField, className)}
-        maxLength="100"
-        placeholder={intl.formatMessage(messages.projectTitlePlaceholder)}
-        tabIndex="0"
-        type="text"
-        value={projectTitle}
-        onSubmit={onSubmit}
-    />
-);
+}) => {
+    projectTitle = projectTitle === "Scratch Project" ? "DiyaBlox Project" : projectTitle
+    return (
+        <BufferedInput
+            className={classNames(styles.titleField, className)}
+            maxLength="100"
+            placeholder={intl.formatMessage(messages.projectTitlePlaceholder)}
+            tabIndex="0"
+            type="text"
+            value={projectTitle}
+            onSubmit={onSubmit}
+        />
+    );
+}
 
 ProjectTitleInput.propTypes = {
     className: PropTypes.string,

@@ -62,15 +62,6 @@
         "variables": {},
         "costumes": [
             {
-                "assetId": "f64042743297db677caa7f514010852c",
-                "name": "Aarav crying",
-                "bitmapResolution": 1,
-                "md5ext": "f64042743297db677caa7f514010852c.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 100,
-                "rotationCenterY": 100
-            },
-            {
                 "assetId": "70b01a66a9c2085685412ccb22cbadb8",
                 "name": "Aarav gentle-smile",
                 "bitmapResolution": 1,
@@ -79,6 +70,16 @@
                 "rotationCenterX": 100,
                 "rotationCenterY": 100
             },
+            {
+                "assetId": "f64042743297db677caa7f514010852c",
+                "name": "Aarav crying",
+                "bitmapResolution": 1,
+                "md5ext": "f64042743297db677caa7f514010852c.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+
             {
                 "assetId": "831da1ecc553073bae9ebda04fdc18e6",
                 "name": "Aarav jump-step-1",
@@ -16757,6 +16758,170 @@
                 "name": "Tutor wondering",
                 "bitmapResolution": 1,
                 "md5ext": "6a346c9b657d58c4ad3a9d78f3e100db.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            }
+        ],
+        "sounds": [
+            {
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+            }
+        ],
+        "blocks": {}
+    },
+    {
+        "name": "Indian Girl",
+        "tags": ["people", "person", "drawing"],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "ee63d40046d9fd52005d352c5d058e3e",
+                "name": "Indian Girl gentle-smile",
+                "bitmapResolution": 1,
+                "md5ext": "ee63d40046d9fd52005d352c5d058e3e.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "3ff6e441d383b4a450583512b18773cd",
+                "name": "Indian Girl laughing",
+                "bitmapResolution": 1,
+                "md5ext": "3ff6e441d383b4a450583512b18773cd.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "3c9b8df0d8fee372f784c2bb508897d5",
+                "name": "Indian Girl runnning-step-1",
+                "bitmapResolution": 1,
+                "md5ext": "3c9b8df0d8fee372f784c2bb508897d5.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "2e30f9945df5b663118a3249b2539f18",
+                "name": "Indian Girl runnning-step-2",
+                "bitmapResolution": 1,
+                "md5ext": "2e30f9945df5b663118a3249b2539f18.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "0f4999c43ecfbb4bf158ebf4afc95daa",
+                "name": "Indian Girl runnning-step-3",
+                "bitmapResolution": 1,
+                "md5ext": "0f4999c43ecfbb4bf158ebf4afc95daa.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "2d6b8bfd11bbd289764a73a0c89c9a71",
+                "name": "Indian Girl runnning-step-4",
+                "bitmapResolution": 1,
+                "md5ext": "2d6b8bfd11bbd289764a73a0c89c9a71.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "a813c7209d720854b7c27dc3a97e3251",
+                "name": "Indian Girl sad",
+                "bitmapResolution": 1,
+                "md5ext": "a813c7209d720854b7c27dc3a97e3251.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "c151b142e9c51ff8f79e34d7efd7a765",
+                "name": "Indian Girl wondering",
+                "bitmapResolution": 1,
+                "md5ext": "c151b142e9c51ff8f79e34d7efd7a765.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "12c01fe56bcd3b529c835d4cb75e8ddd",
+                "name": "Indian Girl crying",
+                "bitmapResolution": 1,
+                "md5ext": "12c01fe56bcd3b529c835d4cb75e8ddd.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "56d487b56a0aca0f03a71db25ddb9c37",
+                "name": "Indian Girl jumping step-1",
+                "bitmapResolution": 1,
+                "md5ext": "56d487b56a0aca0f03a71db25ddb9c37.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "4d3293e232503c42c82dbc59c76cf155",
+                "name": "Indian Girl jumping step-2",
+                "bitmapResolution": 1,
+                "md5ext": "4d3293e232503c42c82dbc59c76cf155.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "21cefbeabfe311f487c9590bc36271d9",
+                "name": "Indian Girl namaste",
+                "bitmapResolution": 1,
+                "md5ext": "21cefbeabfe311f487c9590bc36271d9.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "1a77449a80a9e13b2ae4c2257f5ed5f2",
+                "name": "Indian Girl say hi-1",
+                "bitmapResolution": 1,
+                "md5ext": "1a77449a80a9e13b2ae4c2257f5ed5f2.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "6524a363c96d3363389b8eac4ee6e730",
+                "name": "Indian Girl say hi-2",
+                "bitmapResolution": 1,
+                "md5ext": "6524a363c96d3363389b8eac4ee6e730.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "9126fde31bfc95a365c0733bae22a893",
+                "name": "Indian Girl shy face",
+                "bitmapResolution": 1,
+                "md5ext": "9126fde31bfc95a365c0733bae22a893.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 100,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "0b5edc2b2133526f1c618a6b02486d72",
+                "name": "Indian Girl thinking",
+                "bitmapResolution": 1,
+                "md5ext": "0b5edc2b2133526f1c618a6b02486d72.svg",
                 "dataFormat": "svg",
                 "rotationCenterX": 100,
                 "rotationCenterY": 100
